@@ -142,7 +142,7 @@
           href: 'https://vuetifyjs.com/getting-started/pre-made-layouts',
         },
         {
-          text: 'Frequently Asked Questions',
+          text: 'FrequentlRusy Asked Questions',
           href: 'https://vuetifyjs.com/getting-started/frequently-asked-questions',
         },
       ],
